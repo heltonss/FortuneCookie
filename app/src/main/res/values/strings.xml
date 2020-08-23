@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Biscoito da Sorte</string>
+    <string name="label_cookie">Mensagem do biscoito</string>
+    <string name="button_show_cookie">O que o biscoito tem para mim?</string>
+</resources>

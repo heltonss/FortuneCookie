@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="messages_of_lucky">
+        <item>@string/ms_one</item>
+        <item>@string/ms_two</item>
+        <item>@string/ms_three</item>
+    </string-array>
+</resources>
